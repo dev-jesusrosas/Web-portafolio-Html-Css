@@ -53,13 +53,16 @@ portfolio/
 No requiere instalación ni servidor. Basta con clonar y abrir el archivo:
  
 ```bash
-
+git clone https://github.com/dev-jesusrosas/portfolio.git
+cd portfolio
+# Abrir index.html en tu navegador preferido
 ```
+ 
  
 O con VS Code usando la extensión **Live Server**:
  
 ```
-
+Click derecho en index.html → "Open with Live Server"
 ```
  
 ---
